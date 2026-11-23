@@ -1,0 +1,7 @@
+{
+  "name": "fast-broken-csv-reader",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "license": "MIT"
+}
